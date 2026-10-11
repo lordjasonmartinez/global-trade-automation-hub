@@ -1,0 +1,601 @@
+Country Name,Country Code,Series Name,Series Code,Value,Year,Indicator
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.6502115094968,2015,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,22.7105526089485,2015,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,6248.51490534512,2015,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,38.3607641184453,2015,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.900191418386,2015,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.0534345189741,2015,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,8936.19661712113,2015,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,26.95362593736,2015,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.1627726891004,2015,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,36.2502019908254,2015,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,10021.2386113616,2015,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,70.4129746799259,2015,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.1910790733686,2015,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.1580314947545,2015,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,13433.9202987032,2015,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,59.3491105681231,2015,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,10.7056520504538,2015,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,11.7805740385254,2015,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,13679.6264980954,2015,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,22.4862260889792,2015,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.8499289605736,2015,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.3149066238487,2015,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,43594.2379080706,2015,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,66.1648355844224,2015,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.4111486301271,2015,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,15.2770653039497,2015,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,56849.4697923159,2015,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,27.6882139340768,2015,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.2986849561039,2015,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.2833562687193,2015,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,25982.4416197775,2015,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,63.5820412248232,2015,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.5853976151835,2015,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,35.1711839535087,2015,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,41929.7549110722,2015,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,77.7565815686922,2015,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,27.8790736176463,2015,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.2459709877926,2015,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,45256.040227057,2015,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,57.125044605439,2015,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.6934947262689,2015,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.8111924693795,2015,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,36702.4323733379,2015,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,63.5046871956484,2015,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,20.9390642234326,2015,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.7581206128298,2015,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,8175.33285077393,2015,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,38.6971848362625,2015,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.0921099786159,2015,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.6355206100133,2015,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,35664.6446110613,2015,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,34.7276305886293,2015,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.8131891564045,2015,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,22.1097247094602,2015,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,1583.99815907985,2015,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,41.9229138658647,2015,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.9681314540182,2015,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.4200460024725,2015,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,30171.7906545222,2015,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,75.3881774564907,2015,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,14.7171392781975,2016,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,21.4855137060045,2016,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,5959.84250367574,2016,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,36.202652984202,2016,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.4666790429968,2016,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,12.0670030347037,2016,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,8836.28652735657,2016,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,24.5336820777006,2016,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.8156772514808,2016,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,38.8746261573743,2016,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,9097.92397674769,2016,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,75.6903034088551,2016,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,27.9231577302995,2016,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,28.1347025767999,2016,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,13649.8520452803,2016,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,56.0578603070995,2016,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.5270951690009,2016,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,13.5667926798789,2016,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,12699.9623137756,2016,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,26.0938878488799,2016,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.5025413039024,2016,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.8610786779789,2016,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,42314.1033623905,2016,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,65.3636199818813,2016,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.8881592273253,2016,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.5644385592212,2016,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,57976.628204291,2016,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,26.4525977865465,2016,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.5770329849408,2016,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.6116448657886,2016,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,26755.6061149398,2016,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,63.1886778507294,2016,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.6355419518592,2016,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.3704482647463,2016,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,42948.9381932694,2016,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,76.0059902166055,2016,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.0615561502528,2016,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.7779753635731,2016,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,41258.5374285695,2016,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,59.8395315138259,2016,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.498210070063,2016,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.8445463682721,2016,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,37024.2157133669,2016,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,63.3427564383351,2016,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.2036507365412,2016,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,16.9735199564368,2016,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,8254.86859320357,2016,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,36.177170692978,2016,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.7223961123124,2016,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.933883194543,2016,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,40214.9688631562,2016,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,30.6562793068554,2016,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.1582349105946,2016,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.9242508026814,2016,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,1707.50892912243,2016,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,40.082485713276,2016,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.1129875583911,2016,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.7867345733008,2016,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,30832.0628072516,2016,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,69.8997221316919,2016,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.1452897484005,2017,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.1376251940583,2017,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,6479.53231292429,2017,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,35.2829149424588,2017,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.5189678698768,2017,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,11.8007665044289,2017,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,10080.5092819305,2017,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,24.3197343743057,2017,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,37.514088621552,2017,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,39.4380374225879,2017,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,9649.27816729586,2017,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,76.95212604414,2017,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.3313768888156,2017,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,27.6947817505058,2017,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,14879.9086227187,2017,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,56.0261586393213,2017,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.3202833596733,2017,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,13.9693177780045,2017,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,14532.5009308511,2017,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,25.2896011376779,2017,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.4543366815438,2017,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.6465721095408,2017,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,45129.7335281051,2017,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,65.1009087910845,2017,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.177481026766,2017,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.9478571955214,2017,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,60047.7190728307,2017,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,27.1253382222874,2017,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.9003952055684,2017,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.2670509322886,2017,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,28381.3425596906,2017,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,66.167446137857,2017,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.2029575981591,2017,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,35.2518818760857,2017,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,45553.9341495339,2017,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,77.4548394742448,2017,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.9738310965649,2017,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.216093479851,2017,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,40918.0520870944,2017,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,63.1899245764158,2017,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.311834044929,2017,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.0840141110421,2017,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,38687.1626407164,2017,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,65.3958481559711,2017,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.3356301657728,2017,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.6152224500872,2017,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,8979.67652709856,2017,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,36.95085261586,2017,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.2158253394418,2017,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,16.4730083398364,2017,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,39679.8635262948,2017,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,33.6888336792782,2017,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.7917648392982,2017,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,21.9507321152243,2017,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,1950.10468280866,2017,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,40.7424969545225,2017,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.8488899920532,2017,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.3432508343484,2017,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,33296.9845439195,2017,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,73.1921408264016,2017,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.8997196775431,2018,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.6350331193542,2018,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,6816.96818309544,2018,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,36.5347527968973,2018,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,14.6349994955075,2018,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.2412038808791,2018,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,9300.66164923219,2018,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,28.8762033763866,2018,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.0439304387032,2018,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,41.1687312115588,2018,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,10084.7937570364,2018,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,80.212661650262,2018,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.5290452274717,2018,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.6480060761165,2018,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,15659.4808675628,2018,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,58.1770513035882,2018,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,14.4366857499034,2018,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,16.3258502050892,2018,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,11752.7998922979,2018,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,30.7625359549926,2018,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.3253748086707,2018,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.2744514629593,2018,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,46539.2177903178,2018,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,66.59982627163,2018,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.2871107596266,2018,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,15.1582483706352,2018,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,62875.6661382728,2018,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,27.4453591302618,2018,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.874813986254,2018,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.1345964120382,2018,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,30602.4212881113,2018,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,67.0094103982921,2018,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.4968914074717,2018,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,36.6283346388937,2018,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,48916.1686612154,2018,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,79.1252260463654,2018,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.854534000688,2018,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.0552381952321,2018,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,43704.3162296687,2018,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,64.9097721959201,2018,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.9179818922164,2018,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.8842788890102,2018,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,41418.1766484844,2018,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,66.8022607812266,2018,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.770519802938,2018,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,18.1238645885338,2018,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,10085.6638148819,2018,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,36.8943843914718,2018,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.9111434788682,2018,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.8924314793812,2018,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,40645.478086519,2018,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,35.8035749582494,2018,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.9278285988562,2018,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,23.6891407335327,2018,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,1966.25455171679,2018,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,43.6169693323889,2018,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.4523497931837,2018,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,35.2551664208987,2018,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,35363.9508228687,2018,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,74.7075162140824,2018,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.8680386541241,2019,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,21.6904953267149,2019,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,6472.54544924705,2019,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,37.558533980839,2019,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,14.1229191913178,2019,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.7673386785785,2019,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,9029.83326681073,2019,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,28.8902578698964,2019,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.5296507889335,2019,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,38.9323214620124,2019,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,10369.5553593527,2019,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,77.4619722509459,2019,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,27.8723266080413,2019,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.7345891776124,2019,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,14496.9345640362,2019,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,57.6069157856537,2019,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.9248783778462,2019,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.7057366680037,2019,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,9955.97478680428,2019,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,32.6306150458499,2019,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.3526259007732,2019,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.8187163722873,2019,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,46352.9695208927,2019,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,66.1713422730605,2019,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.7891974097286,2019,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.4692832148142,2019,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,65227.9565911038,2019,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,26.2584806245428,2019,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.6755629292261,2019,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.6906621148431,2019,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,29786.5245689007,2019,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,66.3662250440692,2019,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.3402444816356,2019,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,36.7329982359327,2019,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,47656.199739747,2019,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,79.0732427175683,2019,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.9028602803155,2019,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.1007061373899,2019,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,43160.6843971799,2019,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,65.0035664177054,2019,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.8895429451147,2019,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.5394177830602,2019,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,40408.2848574751,2019,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,66.4289607281749,2019,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.1398222864053,2019,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.3146127417354,2019,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,10342.9009524335,2019,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,35.4544350281407,2019,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.0377974181499,2019,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.320499861849,2019,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,41424.8655601543,2019,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,34.3582972799989,2019,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.664264897257,2019,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,21.2411386333872,2019,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,2041.42863698585,2019,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,39.9054035306442,2019,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,37.0413266370488,2019,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.4057366033023,2019,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,33826.9443301597,2019,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,71.4470632403511,2019,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,13.5222755593302,2020,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.5332954086799,2020,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,5339.68711357943,2020,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,34.0555709680101,2020,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,16.4535520094071,2020,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,15.8485265343869,2020,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,7074.19378337644,2020,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,32.3020785437939,2020,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.2353720952982,2020,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,37.6191836198755,2020,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,8841.27074929751,2020,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,76.8545557151738,2020,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.3228006627665,2020,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,26.8459687305709,2020,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,13117.9930230086,2020,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,58.1687693933374,2020,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,16.6054144372484,2020,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,13.5982843701675,2020,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,8535.59938004389,2020,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,30.203698807416,2020,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.47360741517,2020,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.6830809235097,2020,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,43537.8981198851,2020,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,61.1566883386797,2020,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,10.1230809550527,2020,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,13.0168627958622,2020,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,64465.2971415748,2020,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,23.1399437509149,2020,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.4810248544563,2020,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,28.9651031602513,2020,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,27233.9426461608,2020,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,59.4461280147076,2020,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.1198068808828,2020,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.8137258311309,2020,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,47394.8734504469,2020,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,72.9335327120137,2020,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.9486520576829,2020,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.2112372453782,2020,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,40815.1255364787,2020,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,59.1598893030611,2020,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.5572228192655,2020,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.2816679047993,2020,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,39169.8606000707,2020,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,58.8388907240647,2020,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.2696013805051,2020,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,16.0681770933789,2020,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,10627.4637989619,2020,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,34.337778473884,2020,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.1286902986314,2020,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,15.3905323905959,2020,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,41098.9739004553,2020,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,30.5192226892273,2020,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.6824769296756,2020,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,19.0756283996012,2020,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,1907.04251637669,2020,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,37.7581053292768,2020,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.6152001987888,2020,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.9297576618322,2020,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,33645.7719545073,2020,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,65.544957860621,2020,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,16.1970059548864,2021,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,23.8621404387264,2021,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,6222.62164397614,2021,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,40.0591463936128,2021,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.1094303688709,2021,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,18.5469003909373,2021,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,7972.5366498646,2021,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,37.6563307598082,2021,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,40.5691931964594,2021,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,42.500104429993,2021,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,10314.0506733708,2021,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,83.0692976264524,2021,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.974345622206,2021,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.8656468569676,2021,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,16216.1840860289,2021,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,64.8399924791736,2021,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,18.0667091690365,2021,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,15.0119803984295,2021,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,10738.0179223384,2021,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,33.078689567466,2021,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.1750905922479,2021,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.0717706707868,2021,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,52886.6407813788,2021,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,62.2468612630348,2021,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,10.8266687797107,2021,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.4060572431224,2021,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,71441.2319805947,2021,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,25.2327260228331,2021,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.7570843255301,2021,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.7675046176609,2021,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,30799.4775937775,2021,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,66.524588943191,2021,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.5198379291429,2021,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,37.3996969318423,2021,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,52349.2459994422,2021,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,79.9195348609851,2021,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.2894071087705,2021,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.2489791841395,2021,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,47695.6491523474,2021,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,58.53838629291,2021,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.2880499332105,2021,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.5004326976615,2021,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,43725.0999521245,2021,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,63.788482630872,2021,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.4350556514909,2021,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.2078233128845,2021,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,12887.4357242941,2021,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,36.6428789643754,2021,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.4619853799579,2021,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.963407354096,2021,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,41580.739040705,2021,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,35.4253927340539,2021,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,21.3991583305515,2021,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,24.0239304534931,2021,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,2239.61384367482,2021,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,45.4230887840446,2021,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.3388192669479,2021,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,35.9674854941434,2021,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,37518.4635305697,2021,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,75.3063047610912,2021,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,20.3883679938331,2022,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,27.8942871185028,2022,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,6680.44506854481,2022,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,48.2826551123359,2022,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.6307650034371,2022,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,19.1853009729027,2022,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,9281.33334441234,2022,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,38.8160659763397,2022,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.9322902148243,2022,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,45.8661953749018,2022,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,11405.7940469896,2022,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,88.7984855897261,2022,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,35.6216861605322,2022,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,39.6117335928437,2022,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,15399.1044717559,2022,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,75.2334197533759,2022,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,16.2816677253254,2022,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,15.2985115353002,2022,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,13962.1894087223,2022,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,31.5801792606256,2022,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.7212083293036,2022,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.2319537399015,2022,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,56496.9275340663,2022,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,66.9531620692051,2022,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.6540970440015,2022,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,15.2538011117724,2022,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,78008.6895811877,2022,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,26.9078981557739,2022,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,39.6716824276836,2022,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,38.7940514426218,2022,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,30319.4987196616,2022,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,78.4657338703054,2022,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,45.6284043425185,2022,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,43.1573498705316,2022,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,50506.5179638543,2022,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,88.7857542130501,2022,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.0619283837069,2022,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,35.1369980576912,2022,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,47034.7795621476,2022,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,69.1989264413981,2022,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.6160484268785,2022,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,39.3469593713211,2022,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,40988.6396406579,2022,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,75.9630077981996,2022,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,20.227756033041,2022,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.28479964513,2022,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,12970.6056414327,2022,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,37.512555678171,2022,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,20.647867347033,2022,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,24.212763673007,2022,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,35548.2645222433,2022,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,44.86063102004,2022,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,24.0401716365956,2022,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,26.6577666392086,2022,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,2279.98145719369,2022,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,50.6979382758042,2022,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,45.294860984133,2022,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,45.2902865437219,2022,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,34822.4048404971,2022,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,90.5851475278549,2022,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.8077746975806,2023,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,22.3255418346774,2023,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,7012.49169137756,2023,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,40.1333165322581,2023,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.9693243032741,2023,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,15.6969055268697,2023,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,10377.5892792557,2023,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,33.6662298301438,2023,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,36.1479343675069,2023,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,37.5911414580596,2023,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,13830.843848864,2023,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,73.7390758255664,2023,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,30.7750617433637,2023,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,29.901582730252,2023,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,17081.5180740049,2023,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,60.6766444736157,2023,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.8223120961047,2023,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,13.8546391521167,2023,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,14261.8465667948,2023,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,26.6769512482215,2023,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.3416520498948,2023,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.2328904516085,2023,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,54847.5370112652,2023,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,66.5745425015033,2023,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.0506737190927,2023,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,13.878624456192,2023,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,82586.7847707894,2023,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,24.9292981752847,2023,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,37.8166476493913,2023,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.9809889561819,2023,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,33493.2225409111,2023,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,71.7976366055733,2023,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,42.9672624196847,2023,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,38.9952859590786,2023,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,54776.7668235491,2023,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,81.9625483787634,2023,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.9122697629938,2023,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,33.0801144117865,2023,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,49919.6896621586,2023,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,64.9923841747803,2023,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,34.4562568778842,2023,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,36.1698881831383,2023,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,44700.1384177544,2023,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,70.6261450610225,2023,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,19.4023091648376,2023,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.3368405290018,2023,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,12951.1782397043,2023,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,36.7391496938394,2023,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,21.0593101343597,2023,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,22.5357732459138,2023,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,35215.003535366,2023,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,43.5950833802735,2023,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,22.354801966733,2023,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,23.9681500915008,2023,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,2434.44826340989,2023,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,46.3229520582338,2023,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.3214807367697,2023,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,40.9365283348931,2023,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,35674.095995632,2023,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,82.2580090716629,2023,Trade_pct_GDP
+Colombia,COL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,16.0804545104347,2024,Exports_pct_GDP
+Colombia,COL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.2375393681026,2024,Imports_pct_GDP
+Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,7951.08624019412,2024,GDP_per_capita
+Colombia,COL,Trade (% of GDP),NE.TRD.GNFS.ZS,36.3179938785373,2024,Trade_pct_GDP
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,17.9385794398559,2024,Exports_pct_GDP
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.6459444987685,2024,Imports_pct_GDP
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,10310.5486973693,2024,GDP_per_capita
+Brazil,BRA,Trade (% of GDP),NE.TRD.GNFS.ZS,35.5845239386244,2024,Trade_pct_GDP
+Mexico,MEX,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,37.2836162309013,2024,Exports_pct_GDP
+Mexico,MEX,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,38.1422853106055,2024,Imports_pct_GDP
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,13988.0423745241,2024,GDP_per_capita
+Mexico,MEX,Trade (% of GDP),NE.TRD.GNFS.ZS,75.4259015415068,2024,Trade_pct_GDP
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.7320704435058,2024,Exports_pct_GDP
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.2256760867506,2024,Imports_pct_GDP
+Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,16658.9652720351,2024,GDP_per_capita
+Chile,CHL,Trade (% of GDP),NE.TRD.GNFS.ZS,63.9577465302563,2024,Trade_pct_GDP
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,15.2497485928824,2024,Exports_pct_GDP
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,12.6800122564846,2024,Imports_pct_GDP
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,13969.7836603737,2024,GDP_per_capita
+Argentina,ARG,Trade (% of GDP),NE.TRD.GNFS.ZS,27.929760849367,2024,Trade_pct_GDP
+Canada,CAN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,32.4691150314085,2024,Exports_pct_GDP
+Canada,CAN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.6523836990289,2024,Imports_pct_GDP
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,55015.7066917734,2024,GDP_per_capita
+Canada,CAN,Trade (% of GDP),NE.TRD.GNFS.ZS,65.1214987304374,2024,Trade_pct_GDP
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,10.97469647515,2024,Exports_pct_GDP
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,14.0413208226783,2024,Imports_pct_GDP
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,86169.6641581917,2024,GDP_per_capita
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,25.0160172978284,2024,Trade_pct_GDP
+Spain,ESP,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,37.0558792721708,2024,Exports_pct_GDP
+Spain,ESP,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.8943819660923,2024,Imports_pct_GDP
+Spain,ESP,GDP per capita (current US$),NY.GDP.PCAP.CD,35326.7683069278,2024,GDP_per_capita
+Spain,ESP,Trade (% of GDP),NE.TRD.GNFS.ZS,69.9502612382631,2024,Trade_pct_GDP
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,41.4340593720908,2024,Exports_pct_GDP
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,37.6566712174028,2024,Imports_pct_GDP
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,56103.7323182554,2024,GDP_per_capita
+Germany,DEU,Trade (% of GDP),NE.TRD.GNFS.ZS,79.0907305894936,2024,Trade_pct_GDP
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,31.0561435739375,2024,Exports_pct_GDP
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.7829084706465,2024,Imports_pct_GDP
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,53341.3131094262,2024,GDP_per_capita
+United Kingdom,GBR,Trade (% of GDP),NE.TRD.GNFS.ZS,62.839052044584,2024,Trade_pct_GDP
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,33.8897542343832,2024,Exports_pct_GDP
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.2184333099912,2024,Imports_pct_GDP
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,46103.0840855884,2024,GDP_per_capita
+France,FRA,Trade (% of GDP),NE.TRD.GNFS.ZS,68.1081875443744,2024,Trade_pct_GDP
+China,CHN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,20.4428283665891,2024,Exports_pct_GDP
+China,CHN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.5132317706653,2024,Imports_pct_GDP
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,13293.1162269366,2024,GDP_per_capita
+China,CHN,Trade (% of GDP),NE.TRD.GNFS.ZS,37.9560601372544,2024,Trade_pct_GDP
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,21.9799093698461,2024,Exports_pct_GDP
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,22.8730294879112,2024,Imports_pct_GDP
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,33797.1014287876,2024,GDP_per_capita
+Japan,JPN,Trade (% of GDP),NE.TRD.GNFS.ZS,44.8529388577573,2024,Trade_pct_GDP
+India,IND,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,22.0639816354399,2024,Exports_pct_GDP
+India,IND,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,23.8527091324349,2024,Imports_pct_GDP
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,2591.9916607122,2024,GDP_per_capita
+India,IND,Trade (% of GDP),NE.TRD.GNFS.ZS,45.9166907678748,2024,Trade_pct_GDP
+"Korea, Rep.",KOR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,44.3582383593234,2024,Exports_pct_GDP
+"Korea, Rep.",KOR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,40.2842567598803,2024,Imports_pct_GDP
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,36238.639908315,2024,GDP_per_capita
+"Korea, Rep.",KOR,Trade (% of GDP),NE.TRD.GNFS.ZS,84.6424951192038,2024,Trade_pct_GDP
