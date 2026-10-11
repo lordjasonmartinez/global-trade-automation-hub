@@ -133,3 +133,65 @@ if st.button("Solicitar reporte", type="primary"):
     else:
         st.success(f"Solicitud {resultado['id']} registrada con estado {resultado['estado']}")
         st.write(resultado["resumen"])
+
+
+def cargar_solicitudes():
+    conn = psycopg2.connect(
+        host=host_db(),
+        port=os.getenv("DB_PORT"),
+        dbname=os.getenv("DB_NAME"),
+        user=os.getenv("DB_USER"),
+        password=os.getenv("DB_PASSWORD"),
+        connect_timeout=5,
+    )
+    try:
+        with conn.cursor() as cur:
+            cur.execute(
+                "SELECT id, pais, indicador, estado, creado_en, resumen "
+                "FROM solicitudes ORDER BY id DESC"
+            )
+            filas = cur.fetchall()
+    finally:
+        conn.close()
+    return pd.DataFrame(
+        filas, columns=["id", "país", "indicador", "estado", "creado_en", "resumen"]
+    )
+
+
+def resolver(id_solicitud, decision):
+    url = os.getenv("N8N_RESOLVER_URL", "http://localhost:5678/webhook/resolver-solicitud")
+    resp = requests.post(url, json={"id": int(id_solicitud), "decision": decision}, timeout=15)
+    resp.raise_for_status()
+    r = resp.json()
+    if isinstance(r, list):
+        r = r[0] if r else {}
+    return r
+
+
+st.divider()
+st.subheader("Bandeja de solicitudes")
+
+if "mensaje" in st.session_state:
+    st.success(st.session_state.pop("mensaje"))
+
+historial = cargar_solicitudes()
+st.dataframe(historial, use_container_width=True, hide_index=True)
+
+pendientes = historial[historial["estado"] == "pendiente"]["id"].tolist()
+if pendientes:
+    b1, b2, b3 = st.columns([2, 1, 1])
+    elegida = b1.selectbox("Solicitud pendiente", pendientes)
+    for columna, decision, texto in ((b2, "aprobada", "Aprobar"), (b3, "rechazada", "Rechazar")):
+        if columna.button(texto, key=decision):
+            try:
+                r = resolver(elegida, decision)
+            except Exception as e:
+                st.error(f"No se pudo resolver la solicitud: {e}")
+            else:
+                if "id" in r:
+                    st.session_state["mensaje"] = f"Solicitud {r['id']} {r['estado']}"
+                    st.rerun()
+                else:
+                    st.warning("Esa solicitud ya no estaba pendiente.")
+else:
+    st.info("No hay solicitudes pendientes.")

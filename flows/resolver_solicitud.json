@@ -1,0 +1,96 @@
+{
+  "name": "Resolver solicitud",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "resolver-solicitud",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "764d53bf-d1a5-41f8-bd33-6bcea3781e87",
+      "name": "Webhook",
+      "webhookId": "34843a6c-f2dd-4887-8f7a-abba7271456c"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE solicitudes\nSET estado = $2::text\nWHERE id = $1::integer\n  AND estado = 'pendiente'\n  AND $2::text IN ('aprobada', 'rechazada')\nRETURNING id, pais, indicador, estado, resumen, creado_en;",
+        "options": {
+          "queryReplacement": "={{ $json.body.id }},{{ $json.body.decision }}"
+        }
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        208,
+        0
+      ],
+      "id": "b9b9253e-dd10-48a4-bc00-ccd54eba5040",
+      "name": "Execute a SQL query",
+      "alwaysOutputData": true,
+      "credentials": {
+        "postgres": {
+          "id": "aRii5IAPGPrMe3oD",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        416,
+        0
+      ],
+      "id": "2319b419-7894-4fef-96dd-aeb37173a149",
+      "name": "Respond to Webhook"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "44110d29-ea76-442d-abc9-13ec99edb900",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "4ca99311a7d3b7160d568e68c56571d5a8896d51d9ba83913df30bf20c58abd2"
+  },
+  "id": "FRsSGGg71b8mDjRR",
+  "tags": []
+}
