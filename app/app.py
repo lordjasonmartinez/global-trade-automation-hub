@@ -4,6 +4,7 @@ import socket
 import altair as alt
 import pandas as pd
 import psycopg2
+import requests
 import streamlit as st
 from dotenv import load_dotenv
 
@@ -54,11 +55,11 @@ def cargar_datos():
     )
     try:
         with conn.cursor() as cur:
-            cur.execute("SELECT country_name, indicator, year, value FROM datos_comercio")
+            cur.execute("SELECT country_name, country_code, indicator, year, value FROM datos_comercio")
             filas = cur.fetchall()
     finally:
         conn.close()
-    df = pd.DataFrame(filas, columns=["pais", "indicador", "anio", "valor"])
+    df = pd.DataFrame(filas, columns=["pais", "codigo", "indicador", "anio", "valor"])
     df["valor"] = df["valor"].astype(float)
     df["pais"] = df["pais"].replace(PAISES)
     return df
@@ -76,6 +77,7 @@ pais = col1.selectbox("País", lista_paises, index=lista_paises.index("Colombia"
 etiqueta = col2.selectbox("Indicador", list(INDICADORES.values()))
 codigo = [k for k, v in INDICADORES.items() if v == etiqueta][0]
 
+codigo_pais = df.loc[df["pais"] == pais, "codigo"].iloc[0]
 d = df[df["indicador"] == codigo]
 ultimo = int(d["anio"].max())
 actual = d[(d["pais"] == pais) & (d["anio"] == ultimo)]["valor"].iloc[0]
@@ -106,3 +108,28 @@ barras = (
     )
 )
 g2.altair_chart(barras, use_container_width=True)
+
+
+st.divider()
+st.subheader("Solicitar reporte")
+st.caption("Envía la consulta actual al flujo de n8n, que calcula el resumen y registra la solicitud en la base de datos.")
+
+if st.button("Solicitar reporte", type="primary"):
+    url = os.getenv("N8N_WEBHOOK_URL", "http://localhost:5678/webhook/solicitar-reporte")
+    carga = {
+        "codigo_pais": codigo_pais,
+        "pais": pais,
+        "indicador": codigo,
+        "indicador_nombre": etiqueta,
+    }
+    try:
+        resp = requests.post(url, json=carga, timeout=15)
+        resp.raise_for_status()
+        resultado = resp.json()
+        if isinstance(resultado, list):
+            resultado = resultado[0]
+    except Exception as e:
+        st.error(f"No se pudo enviar la solicitud: {e}")
+    else:
+        st.success(f"Solicitud {resultado['id']} registrada con estado {resultado['estado']}")
+        st.write(resultado["resumen"])

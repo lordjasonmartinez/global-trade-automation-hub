@@ -1,0 +1,95 @@
+{
+  "name": "Solicitar reporte",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "solicitar-reporte",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "1c4d2555-f26c-4e77-bab5-5e5b4f0cfa8a",
+      "name": "Webhook",
+      "webhookId": "93356f11-d033-4c20-80c1-38eef44eefe4"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.5,
+      "position": [
+        416,
+        0
+      ],
+      "id": "f7a393ef-1e9e-487b-a7ce-415c1c3a099e",
+      "name": "Respond to Webhook"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "WITH base AS (\n  SELECT country_code, year, value\n  FROM datos_comercio\n  WHERE indicator = $2\n),\nult AS (\n  SELECT MAX(year) AS anio FROM base\n),\nrank_ult AS (\n  SELECT b.country_code, b.value,\n         RANK() OVER (ORDER BY b.value DESC) AS puesto,\n         COUNT(*) OVER () AS total\n  FROM base b, ult\n  WHERE b.year = ult.anio\n),\nprev AS (\n  SELECT b.value\n  FROM base b, ult\n  WHERE b.country_code = $1 AND b.year = ult.anio - 1\n),\nresumen AS (\n  SELECT (SELECT anio FROM ult) AS anio,\n         r.value AS valor,\n         r.puesto,\n         r.total,\n         r.value - (SELECT value FROM prev) AS variacion\n  FROM rank_ult r\n  WHERE r.country_code = $1\n)\nINSERT INTO solicitudes (pais, indicador, estado, resumen)\nSELECT $3::text,\n       $4::text,\n       'pendiente',\n       'En ' || anio || ', ' || $3::text || ' registró ' || ROUND(valor, 1)\n         || ' en ' || $4::text || ', puesto ' || puesto || ' de ' || total\n         || '. Variación frente al año anterior: ' || ROUND(variacion, 1)\nFROM resumen\nRETURNING id, pais, indicador, estado, resumen, creado_en;",
+        "options": {
+          "queryReplacement": "={{ $json.body.codigo_pais }},{{ $json.body.indicador }},{{ $json.body.pais }},{{ $json.body.indicador_nombre }}"
+        }
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        208,
+        0
+      ],
+      "id": "1a219791-6b77-40e1-8491-7a2616d9222b",
+      "name": "Execute a SQL query",
+      "credentials": {
+        "postgres": {
+          "id": "aRii5IAPGPrMe3oD",
+          "name": "Postgres account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "0b06038f-8e5a-492c-8739-9f73b9188cf9",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "4ca99311a7d3b7160d568e68c56571d5a8896d51d9ba83913df30bf20c58abd2"
+  },
+  "id": "iH1sJQDneoUsSGFh",
+  "tags": []
+}
